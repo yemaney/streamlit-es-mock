@@ -1,0 +1,31 @@
+,created_at,text,user_screen_name,user_followers_count,retweet_count,reply_count,favorite_count,lang,SENTIMENT,SENTIMENT_SCORE,KEY_PHRASES,NAMED_ENTITIES
+0,Thu Nov 10 16:16:17 +0000 2022,"What I’ve asked for on raptors jerseys. 
+
+1. U neck 
+2. Toronto on the chest 
+3. No chevron 
+
+They accomplished all… https://t.co/AqhAf37VFu",Imman_Adan,12254,1,1,8,en,NEUTRAL,0.6484696865081787,"['raptors jerseys', '1', '2', 'Toronto', 'the chest \n3', 'chevron']","['Toronto', 'https://t.co/AqhAf37VFu']"
+1,Thu Nov 10 16:16:17 +0000 2022,"RT @Imman_Adan: What I’ve asked for on raptors jerseys. 
+
+1. U neck 
+2. Toronto on the chest 
+3. No chevron 
+
+They accomplished all in the…",Old_SoulSmith,93,0,0,0,en,NEGATIVE,0.49909037351608276,"['RT', 'raptors jerseys', '1', '2', 'Toronto', 'the chest', '3', 'No chevron']","['@Imman_Adan', 'Toronto']"
+2,Thu Nov 10 16:16:52 +0000 2022,"@Nike The Toronto Raptors.
+North Strong.
+🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦🇨🇦👊",james_seo03,159,0,0,0,en,NEUTRAL,0.9477556347846985,"['Nike The Toronto Raptors', 'North Strong']","['@Nike', 'Toronto Raptors']"
+3,Thu Nov 10 15:30:00 +0000 2022,"RT @theScore: The Raptors city edition uniforms represent the six boroughs of Toronto. 🇨🇦
+
+(📸: @Raptors) https://t.co/Zn6HEfh4G3",M4tthewsBurner,496,0,0,0,en,NEUTRAL,0.9940206408500671,"['RT', 'theScore', 'The Raptors city edition uniforms', 'the six boroughs', 'Toronto', 'Raptors']","['@theScore', 'Raptors', 'six boroughs', 'Toronto', '🇨🇦', '@Raptors', 'https://t.co/Zn6HEfh4G3']"
+4,Thu Nov 10 10:59:48 +0000 2022,"RT @ClutchPage: Şu videodaki bir an, Alperen'in rakiplerde yarattığı hissi o kadar güzel anlatıyor ki 🤩
+
+Toronto Raptors savunması, Alperen…",nerudali,1270,0,0,0,tr,POSITIVE,0.8768052458763123,"['RT', 'Şu videodaki bir an,', ""Alperen'in rakiplerde yarattığı"", 'hissi', 'Toronto Raptors savunması,', 'Alperen…']","['@ClutchPage', ""Alperen'in"", 'Toronto Raptors', 'Alperen…']"
+5,Thu Nov 10 01:34:28 +0000 2022,RT @ryangerritsen: Watching the Raptors game that’s in Toronto proves that nanos poll @CTVNews keeps pushing saying the majority of Canadia…,emgfind,4998,0,0,0,en,NEUTRAL,0.8362886309623718,"['RT', 'the Raptors game', 'Toronto', 'nanos', '@CTVNews', 'the majority', 'Canadia…']","['@ryangerritsen', 'Raptors', 'Toronto', '@CTVNews', 'Canadia…']"
+6,Thu Nov 10 16:18:08 +0000 2022,🇹🇷 Alperen Şengün’ün Toronto Raptors karşısındaki performansı 👇🏀 17 sayı🙌 8 ribaund🖐 1 top çalma⛔️ 3 blok🏹 7’… https://t.co/JjUlRhL6eq,BerniceRooseve8,8,0,0,0,tr,NEUTRAL,0.9938591122627258,['Alperen Şengün’ün Toronto Raptors karşısındaki'],"['Alperen Şengün’ün', 'Toronto Raptors', '17 sayı', '8 ribaund', '1 top', '3 blok', '7’…', 'https://t.co/JjUlRhL6eq']"
+7,Thu Nov 10 16:16:14 +0000 2022,28. Toronto Raptors 🦖 https://t.co/rqF5MXmxPR,camisa_23,230057,0,1,26,en,NEUTRAL,0.9989375472068787,"['28', 'Toronto Raptors']","['Toronto Raptors', 'https://t.co/rqF5MXmxPR']"
+8,Thu Nov 10 15:30:00 +0000 2022,"RT @theScore: The Raptors city edition uniforms represent the six boroughs of Toronto. 🇨🇦
+
+(📸: @Raptors) https://t.co/Zn6HEfh4G3",JigmeKelsang7,193,0,0,0,en,NEUTRAL,0.9940206408500671,"['RT', 'theScore', 'The Raptors city edition uniforms', 'the six boroughs', 'Toronto', 'Raptors']","['@theScore', 'Raptors', 'six boroughs', 'Toronto', '🇨🇦', '@Raptors', 'https://t.co/Zn6HEfh4G3']"
+9,Thu Nov 10 16:19:28 +0000 2022,Shai would be a great fit for the Toronto Raptors if they can get him for the right price. He brings consistent off… https://t.co/PHGdAud0c3,RaptorsComment,8,0,1,1,en,POSITIVE,0.7820302248001099,"['Shai', 'a great fit', 'the Toronto Raptors', 'the right price']","['Shai', 'Toronto Raptors', 'https://t.co/PHGdAud0c3']"
